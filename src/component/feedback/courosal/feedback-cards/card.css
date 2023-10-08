@@ -98,7 +98,9 @@
     width: 71px;
 }
 
-@media screen and (max-width: 768px){
+
+@media screen and (max-width: 768px)
+{
     .feedback {
         align-items: flex-start;
         background-color: var(--isabeline);
