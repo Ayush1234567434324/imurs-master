@@ -197,8 +197,10 @@ a{
     }
 
     .nav-open .star {
-        height: 200px; /* Further adjust star size for mobile */
-        width: 200px; /* Further adjust star size for mobile */
+        height: auto; /* Further adjust star size for mobile */
+        width: 100px; /* Further adjust star size for mobile */
+        display: none;
+        
     }
     .nav .menu {
         height: fit-content;
